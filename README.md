@@ -1,6 +1,14 @@
 # HardHats
 A mobile app for contractors
 
+![Logo]({{site.baseurl}}/http://i63.tinypic.com/16ifrbn.jpg)
+
+
+
+
+
+
+
 10/10/17
 - Lots more refactoring
 - Created DataContainer to hold a type, php variable names, and data passed in

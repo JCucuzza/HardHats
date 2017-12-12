@@ -1,11 +1,7 @@
 # HardHats
 A mobile app for contractors
 
-({{site.baseurl}}/http://i63.tinypic.com/16ifrbn.jpg)
-
-
-
-
+![Logo]({{site.baseurl}}/finallogojpeg.jpg)
 
 
 
